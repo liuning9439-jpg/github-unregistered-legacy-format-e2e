@@ -1,0 +1,9 @@
+{
+  "name": "github-unregistered-legacy-format-e2e",
+  "version": "1.0.0",
+  "description": "github-unregistered legacy-format E2E fixture; marker=GITHUB_UNREGISTERED_LEGACY_GENERIC_V1",
+  "author": {
+    "name": "AgentPlugin Test"
+  },
+  "mcpServers": "./.plugin/mcp.json"
+}
