@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "github-unregistered-legacy-fixture": {
+      "command": "node",
+      "args": [
+        "${PLUGIN_ROOT}/.plugin/server.mjs"
+      ]
+    }
+  }
+}
